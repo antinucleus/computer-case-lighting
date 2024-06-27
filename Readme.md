@@ -18,7 +18,7 @@ You can access `desktop application` from this link: https://github.com/antinucl
   Watch Case Lighting Demo Video on Youtube
 </h4>
 
-[![Watch the video](https://img.youtube.com/vi/YzfNLE8OEB4/0.jpg)](https://www.youtube.com/watch?v=YzfNLE8OEB4)
+[![Watch the video](https://img.youtube.com/vi/YzfNLE8OEB4/2.jpg)](https://www.youtube.com/watch?v=YzfNLE8OEB4)
 
 <h4 align="center">
   Watch Music Mode Demo Video on Youtube
